@@ -3,10 +3,8 @@
 Read the *"Open Loop Optimization of LTI systems.pdf"* document to get an overview of the full and reduced batch approaches to dynamic optimization of LTI systems.
 Then download the example script and play around with it!
 
-This is not related to the rest of the QP-repository, but I added it here.
-I wrote this quickly, and there may be errors. If you find any, let me know 🙂
+If you find any errors, let me know 🙂 (I have not tested this extensively)
 If you have any questions, or would like me to add something, please contact me. Either by mail: tagabrie@ntnu.no, or by some other means.
-
 
 The example script uses the functions found in the "MATLAB Functions" folder, but they are also included directly in the script.
 
